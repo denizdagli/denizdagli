@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 📝 I regularly write articles on [https://medium.com/@denizdagli](https://medium.com/@denizdagli)
+- 📝 I regularly write articles on medium(https://medium.com/@denizdagli)
 
 - 💬 Ask me about **Node.js**
 
