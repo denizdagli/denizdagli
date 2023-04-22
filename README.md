@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Deniz Dagli</h1>
 <h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="Coding" width="400" src= "https://i.pinimg.com/originals/72/8d/41/728d4149a1c30ff894075e639b5c9fcd.gif">
