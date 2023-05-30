@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dendagli" target="blank"><img src="https://img.shields.io/twitter/follow/dendagli?logo=twitter&style=for-the-badge" alt="dendagli" /></a> </p>
 
-- 🔭 I’m currently working on [smartEdu](https://github.com/denizdagli/smartEdu)
+- 🔭 I’m currently working on [baseAPI](https://github.com/denizdagli/baseAPI)
 
 - 🌱 I’m currently learning **Go**
 
