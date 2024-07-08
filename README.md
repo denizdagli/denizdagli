@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deniz Dagli</h1>
-<h3 align="center">A backend developer</h3>
+<h3 align="center">A Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src= "https://i.pinimg.com/originals/72/8d/41/728d4149a1c30ff894075e639b5c9fcd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denizdagli&label=Profile%20views&color=0e75b6&style=flat" alt="denizdagli" /> </p>
