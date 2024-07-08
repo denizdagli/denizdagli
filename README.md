@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/dendagli" target="blank"><img src="https://img.shields.io/twitter/follow/dendagli?logo=twitter&style=for-the-badge" alt="dendagli" /></a> </p>
 
 - 📝 I regularly write articles on [medium](https://medium.com/@denizdagli)
+- 📊 You can access my Kaggle profile [here](https://www.kaggle.com/denizdagli1)
 
 - 📫 How to reach me **denizdaglice@gmail.com**
 
