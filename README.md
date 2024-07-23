@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Deniz Dagli</h1>
 <h3 align="center">A Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src= "https://i.pinimg.com/originals/72/8d/41/728d4149a1c30ff894075e639b5c9fcd.gif">
+<img align="right" alt="Coding" width="400" src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1iZWN1NGRtMG5xMGhleGJ4MmluM3U4eTdvcmY1Y2YzYTVxMnU3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denizdagli&label=Profile%20views&color=0e75b6&style=flat" alt="denizdagli" /> </p>
 
