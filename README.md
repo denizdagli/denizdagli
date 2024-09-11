@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Deniz Dagli</h1>
 <h3 align="center">A Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1iZWN1NGRtMG5xMGhleGJ4MmluM3U4eTdvcmY1Y2YzYTVxMnU3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.webp">
 
 - 📝 I regularly write articles on [medium](https://medium.com/@denizdagli)
 
