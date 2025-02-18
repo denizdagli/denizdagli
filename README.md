@@ -6,6 +6,7 @@
 
 - 📫 How to reach me **denizdaglice@gmail.com**
 
+- [Streamlit](https://share.streamlit.io/user/denizdagli) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deniz-dagli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deniz-dagli" height="30" width="40" /></a>
